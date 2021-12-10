@@ -1,0 +1,13 @@
+* GITHUB TEMPLATE
+    <repo quality="experimental" status="unofficial">
+      <name>fource</name>
+      <description lang="en">Privacy and Security App Builds</description>
+      <homepage>https://github.com/4cecoder/overlay</homepage>
+      <owner type="person">
+        <email>XXXXX</email>
+        <name>fource</name>
+      </owner>
+      <source type="git">https://github.com/4cecoder/overlay.git</source>
+      <source type="git">git+ssh://git@github.com/4cecoder/overlay.git</source>
+      <feed>https://github.com/4cecoder/overlay/commits/master.atom</feed>
+    </repo>
